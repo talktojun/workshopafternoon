@@ -1,0 +1,48 @@
+print ("i'm alive")
+print ("i'm alive")
+1
+2
+1+3
+1 + 5
+1 + 5 * 2
+type (1 + 3 * 2)
+type (1 + 3 * 2.0)
+type (2.0)
+type (2.0)
+True
+False
+type(True)
+1 + 3 * 2.0
+True == False
+harry potter
+False == False
+False
+"aadfkl"
+type ("aaa")
+"aaa" + "b
+"abc" [0]
+"abc" [1]
+"afafafafafafafafadfsdfafaf"
+input("What is your name?")
+input("What is your name?")
+type(input("What is your name?"))
+'hello world'
+"your're my best friend computer"
+'your're my best friend computer'
+type(1 + 1)
+type("1")
+type(1)
+(1, 3)
+type((1, 3))
+type((1, 3, 4))
+("Jun", 2, True)[0]
+("Jun", 2, True)[1]
+[0, 1, 2]
+type([0, 1, 2])
+[1, 2, Dog]
+[1, 2, "Dog"]
+[1, 2, "Dog"][1]
+[1, 2, "Dog"][2]
+%hist?
+%history?
+%history -f history.txt
